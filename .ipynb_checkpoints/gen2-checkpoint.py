@@ -8,6 +8,7 @@ import numpy as np
 
 # random.seed(10)
 
+
 max_value = 8
 cant_bits = int(ceil(log2(max_value)))
 mutations = []
