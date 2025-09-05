@@ -4,7 +4,7 @@ from numpy import random
 from numpy.random import randint
 from numpy.random import rand
 import numpy as np
-`ß
+
 
 # random.seed(10)
 
